@@ -4,3 +4,4 @@ temp
 venv
 __pycache__
 .DS_Store
+bitly-api-python
